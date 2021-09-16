@@ -18,3 +18,5 @@ plt.scatter(
     alpha=0.5,
 )
 plt.show()
+
+# For excercise with Nansu
